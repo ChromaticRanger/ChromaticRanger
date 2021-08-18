@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ChromaticRanger/ChromaticRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working solo in Bristol, UK.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Puzzlebouts**
+- ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `tailwind`, `.css`, `.c#`,
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: [mds1966@gmail.com]([mds1966@gmail.com])
+
+<a href="https://github.com/chromaticranger">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=chromaticranger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromaticranger&theme=dark"/>
+</a>
