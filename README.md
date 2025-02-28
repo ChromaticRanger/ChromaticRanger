@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Puzzlebouts**
+- 🏢 I'm currently working on **Puzzlebouts**
 - ⚙️ I use daily: `.ts`, `.js`, `.vue`, `.html`, `tailwind`, `.css`, `.c#`,
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [mds1966@gmail.com]([mds1966@gmail.com])
