@@ -15,6 +15,8 @@ browser.
 - 🧩 Chrome extension: **[Add to Chrome](https://chromewebstore.google.com/detail/stash-squirrel/inhkmokpomefeajkjpedkljnjfpddkhp)**
 - ✍️ The build story: **[stash-squirrel.com/blog](https://stash-squirrel.com/blog)**
 
+> 🧩 **Next up:** *Puzzlebouts* — something new and exciting. Watch this space.
+
 ---
 
 ##### About me
